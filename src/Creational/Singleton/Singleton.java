@@ -1,4 +1,4 @@
-package Creational;
+package src.Creational.Singleton;
 
 public class Singleton {
     private static Singleton instance = new Singleton();
